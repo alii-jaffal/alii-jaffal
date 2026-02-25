@@ -40,8 +40,8 @@ My technical background combines **object-oriented programming, backend developm
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alii-jaffal&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alii-jaffal&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alii-jaffal&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alii-jaffal&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
